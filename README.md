@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I’m interested in WordPress themes, cybersecurity, web design, writing books & living a nomadic lifestyle.
-- 🌱 I’m currently learning Git and GitHub version control for my projects.
+- 🌱 I’m currently learning Git and GitHub for version control on my projects.
 - 💞️ I’m looking to collaborate on anything and everything that tickles my fancy.
 - 📫 Reach me at my website - tomsclater.com
 
