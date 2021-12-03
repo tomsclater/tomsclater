@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tomsclater
-- 👀 I’m interested in WordPress themes, cybersecurity, web design, writing books & living a nomadic lifestyle.
-- 🌱 I’m currently learning Git and GitHub for version control on my projects.
+- 👀 I’m interested in WordPress, cybersecurity, web design, vector graphics & 3D animation.
+- 🌱 I’m currently using Git and GitHub for version control on my projects.
 - 💞️ I’m looking to develop the 7 WordPress websites (and growing) that I currently manage.
-- 📫 Reach me at my website - tomsclater.com
+- 📫 Working on a new website overhaul - tomsclater.com
 
 <!---
 tomsclater/tomsclater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
