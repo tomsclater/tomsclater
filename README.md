@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I’m interested in WordPress, cybersecurity, web design, vector graphics & 3D animation.
 - 🌱 I’m currently using Git and GitHub for version control on my projects.
-- 💞️ I’m looking to develop the 7 WordPress websites (and growing) that I currently manage.
+- 💞️ I’m looking to develop the 8 WordPress websites (and growing) that I currently manage.
 - 📫 Working on a new website overhaul - tomsclater.com
 
 <!---
