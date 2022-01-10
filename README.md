@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design, WordPress, cybersecurity, vectors & 3D animation.
 - 🌱 I’m currently using Git and GitHub for version control on projects.
 - 💞️ I’m aiming to develop the websites that I manage.
-- 📫 I'm Always working on website overhauls - tomsclater.com - is on the way.
+- 📫 I'm always working on website overhauls - tomsclater.com - is on the way.
 
 <!---
 tomsclater/tomsclater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
