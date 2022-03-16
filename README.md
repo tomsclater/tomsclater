@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomsclater
-- 👀 I’m interested in web development, design, cybersecurity, vector graphics & 3D animation
+- 👀 I’m interested in everything web development & tech
 - 🌿 I am learning Git and GitHub for version control on projects
 - 👨‍💻 I’m studying to develop the websites that I manage
 - 🔜 I'm always working on website overhauls
