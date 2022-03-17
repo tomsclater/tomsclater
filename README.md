@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I’m interested in everything web development & tech
-- 🌿 I am learning Git and GitHub for version control on projects
+- 🌿 I'm learning Git and GitHub for version control on projects
 - 👨‍💻 I’m studying to develop the websites that I manage
 - 🔜 Always working on website overhauls and projects
 <!---
