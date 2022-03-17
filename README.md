@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I'm interested in everything development & tech
 - 🌿 I'm learning Git and GitHub for version control on projects
-- 👨‍💻 I'm studying to develop the websites that I manage
+- 👨‍💻 I'm studying to develop websites
 - 🔜 I'm working on website overhauls and projects
 <!---
 tomsclater/tomsclater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
