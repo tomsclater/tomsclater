@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I'm interested in everything development & tech
-- 🌿 I'm currently learning AzureDevOps
+- 🌿 I'm currently learning Azure DevOps
 - 👨‍💻 I'm studying to develop websites
 - 🔜 I'm working on website overhauls and projects
 <!---
