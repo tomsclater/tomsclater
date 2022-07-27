@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I'm interested in everything development & tech
-- 🌿 I'm currently learning React
+- 🌿 I'm currently learning React & full-stack development
 - 👨‍💻 I'm studying to develop websites
 - 🔜 I'm working on website overhauls and projects
 <!---
