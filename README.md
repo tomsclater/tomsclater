@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I'm interested in everything development & tech
-- 🌿 I'm currently learning full-stack development
-- Email: tomsclater@live.com
+- Portfolio: https://t-sclater.vercel.app/
+- - Email: tomsclater@live.com
 - LinkedIn: www.linkedin.com/in/tomsclater/
 <!---
 tomsclater/tomsclater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
