@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomsclater
 - 👀 I'm interested in everything development & tech
-- Portfolio: [T-Sclater]([https://link-url-here.org](https://t-sclater.vercel.app/))
+- Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
 - Email: tomsclater@live.com
 - LinkedIn: www.linkedin.com/in/tomsclater/
 <!---
