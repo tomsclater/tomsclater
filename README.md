@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @tomsclater
 Welcome to my GitHub profile, where I explore the exciting realms of development, tech support, networking, and data analysis.
 
-## 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/) or check out dev.byte4byte.com
+## 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/) or check out [dev.byte4byte.com](https://dev.byte4byte.com/)
 ## 📧 Contact: tomsclater@live.com
 ## ▶ Support: If you find my work valuable and would like to support me, consider buying me a coffee or contributing in other ways.
 Happy coding! 🚀
