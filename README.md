@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomsclater
-- 👀 I'm interested in everything development & tech (coding, tech support, networks, data analysis)
+- 👀 I'm interested in everything development & tech (coding, tech support, networking, data analysis)
 - Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
 - Email: tomsclater@live.com
 - LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
