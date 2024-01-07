@@ -3,6 +3,7 @@ Welcome to my GitHub profile, where I explore the realms of development, and dat
 
 # ☕
 I througholy enjoy coding, networking & providing technical support.
+When I'm not coding, I like to read about code. 📖
 
 ## 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
 ### 📧 Contact: tomsclater@live.com 
