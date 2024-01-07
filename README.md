@@ -4,7 +4,7 @@ I'm also experienced with networking and technical support.
 
 ### 🌐 **Portfolio:** [T-Sclater](https://t-sclater.vercel.app/)
 ### 📧 **Contact:** tomsclater@live.com
-### ▶ **Donations:** Consider buying me a coffee or join my [Discord](https://discord.gg/J9kVfvAYeH).
+### ▶ **Donations:** If you find value in the work shared, consider buying me a coffee.
 ### ▶ **Support:** Join my [Discord](https://discord.gg/J9kVfvAYeH).
 
 **Happy Hacking! 🚀**
