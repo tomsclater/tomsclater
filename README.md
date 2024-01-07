@@ -11,7 +11,7 @@ Welcome to my GitHub profile, where I explore the exciting realms of development
 ### LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
 
 ## Current Projects: 
-### Data Analysis [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
+### Data Analysis - [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
 
 
 
