@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @tomsclater
 Welcome to my GitHub profile, I explore the exciting realms of development, and data analysis.
-I work as a systems administrator and specialise in networking and technical support.
+I'm experienced with networking and technical support.
 
 ### 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/) or check out [dev.byte4byte.com](https://dev.byte4byte.com/)
 ### 📧 Contact: tomsclater@live.com
