@@ -8,10 +8,10 @@ I'm also experienced with networking and technical support.
 ### ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH). 
 ### 💼 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
 
-### 💸 Donations:
+Donations:
 If you find value in my work, please consider buying me a coffee.
 
-<p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="Tsclater" ></img></a></p>
+<p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="30" width="210" alt="Tsclater" ></img></a></p>
 
 
 **Happy Hacking! 🚀**
