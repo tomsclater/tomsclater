@@ -2,10 +2,10 @@
 Welcome to my GitHub profile, I explore the exciting realms of development, and data analysis.
 I'm also experienced with networking and technical support.
 
-### 🌐 **Portfolio:** [T-Sclater](https://t-sclater.vercel.app/)
-### 📧 **Contact:** tomsclater@live.com
-### ▶ **Support:** Join my [Discord](https://discord.gg/J9kVfvAYeH).
-### 🤝 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
+### 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
+### 📧 Contact: tomsclater@live.com
+### ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH).
+### 💼 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
 
 ### ▶ **Donations:** If you find value in the work shared, consider buying me a coffee.
 
