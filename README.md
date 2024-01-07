@@ -10,7 +10,7 @@ I'm also experienced with networking and technical support.
 
 __Donations:__
 If you find value in my work, please consider buying me a coffee.
-<p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="40" width="110" alt="Tsclater" ></img></a></p>
+<p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="40" width="130" alt="Tsclater" ></img></a></p>
 
 
 **Happy Hacking! 🚀**
