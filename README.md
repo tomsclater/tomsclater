@@ -11,7 +11,7 @@ Welcome to my GitHub profile, where I explore the exciting realms of development
 ### LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
 
 ## Latest Project: 
-# Data Analysis
+## Data Analysis
 
 
 
