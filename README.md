@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @tomsclater
-Welcome to my GitHub profile, I explore the realms of development, and data analysis.
+Welcome to my GitHub profile, where I explore the realms of development, and data analysis.
 
 # ☕
 I enjoy coding, networking & providing technical support.
