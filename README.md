@@ -2,7 +2,7 @@
 Welcome to my GitHub profile, I explore the exciting realms of development, and data analysis.
 I'm also experienced with networking and technical support.
 
-### 🌐 **Portfolio:** [T-Sclater](https://t-sclater.vercel.app/) or check out [dev.byte4byte.com](https://dev.byte4byte.com/)
+### 🌐 **Portfolio:** [T-Sclater](https://t-sclater.vercel.app/)
 ### 📧 **Contact:** tomsclater@live.com
 ### ▶ **Support:** If you find my work I share valuable and would like to support me, consider buying me a coffee or join my [Discord](https://discord.gg/J9kVfvAYeH).
 **Happy Hacking! 🚀**
