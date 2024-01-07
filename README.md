@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @tomsclater
 Welcome to my GitHub profile, I explore the exciting realms of development, and data analysis.
-I'm highly experienced with networking and technical support.
+I'm highly experienced in networking and technical support.
 
 ## 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
 ### 📧 Contact: tomsclater@live.com 
