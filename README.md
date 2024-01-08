@@ -15,10 +15,6 @@ When I'm not coding, I like to read about code. 📖
 
 💼 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
 
-
-__Donations:__
-If you find value in my work, please consider buying me a coffee.
-
 **Happy Hacking! 🚀**
 
 ## Recent Projects: 
