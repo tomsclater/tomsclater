@@ -3,7 +3,7 @@ Welcome to my GitHub profile, where I explore the realms of **development**, **d
 
 # ☕
 ### <p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="40" width="130" alt="Tsclater" ></img></a></p>
-I thoroughly enjoy technology - coding, networking & providing technical support.
+I thoroughly enjoy technology - such as coding, networking & providing technical support.
 
 When I'm not coding, I like to read about code. 📖
 
