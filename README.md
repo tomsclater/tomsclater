@@ -20,10 +20,12 @@ If you find value in my work, please consider buying me a coffee.
 **Happy Hacking! 🚀**
 
 ## Recent Projects: 
-### Data Analysis - [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
+
+Data Analysis - [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
 
 ## Current Projects: 
-### Data Analysis - [Cricket Dataset](https://github.com/tomsclater/cricket-dataset)
+
+Data Analysis - [Cricket Dataset](https://github.com/tomsclater/cricket-dataset)
 
 
 
