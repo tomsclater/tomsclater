@@ -2,7 +2,7 @@
 Welcome to my GitHub profile, where I explore the realms of development, and data analysis.
 
 # ☕
-I througholy enjoy coding, networking & providing technical support.
+I thoroughly enjoy coding, networking & providing technical support.
 
 When I'm not coding, I like to read about code. 📖
 
