@@ -7,14 +7,11 @@ I thoroughly enjoy technology - coding, networking & providing technical support
 
 When I'm not coding, I like to read about code. 📖
 
-# 🌐 
-Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
-# 📧
-Contact: tomsclater@live.com 
-# ▶ 
-Support: Join my [Discord](https://discord.gg/J9kVfvAYeH). 
-# 💼 
-LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
+## 🌐 Portfolio: [T-Sclater](https://t-sclater.vercel.app/)
+## 📧 Contact: tomsclater@live.com 
+## ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH). 
+## 💼 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
+
 
 __Donations:__
 If you find value in my work, please consider buying me a coffee.
