@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @tomsclater
-Welcome to my GitHub profile, where I explore tech, such as **development**, **design** and **data analysis**.
+Welcome to my GitHub profile, I explore **development**, **design** and **data analysis**.
 
 # ☕
 ### <p><a href="https://www.buymeacoffee.com/tsclater" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="40" width="130" alt="Tsclater" ></img></a></p>
