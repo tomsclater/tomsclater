@@ -21,6 +21,6 @@ I like to practice to code with different projects and to study code. 📖
 
 Data Analysis - [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
 
-## Current Projects: 
+## In Progress: 
 
 Data Analysis - [Road Safety Data](https://github.com/tomsclater/road-safety-data)
