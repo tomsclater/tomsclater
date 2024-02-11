@@ -7,7 +7,7 @@ I thoroughly enjoy technology - such as coding, networking & providing technical
 
 I like to practice to code with projects and constant learning. 📖
 
-🌐 Business Card: [T-Sclater]([https://t-sclater.vercel.app](https://tomsclater.github.io/))
+🌐 Business Card: [Tsclater](https://tomsclater.github.io/tsclater.github.io/)
 
 📧 Contact: tomsclater@live.com 
 
