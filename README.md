@@ -6,8 +6,6 @@
 ### I enjoy staying up to date with technology. 
 ## I offer tech/coding/networking/cybersecurity, and AI support.
 
-### Lifelong learner. 📖
-
 ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH). 
 
 🌐 Business Card: [Tsclater](https://tomsclater.github.io)
