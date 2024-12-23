@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m @tomsclater
-### Exploring **development**, **design** and **data analysis**.
-
 # ☕
-### I enjoy staying up to date with technology. 
 
 ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH). 
 
