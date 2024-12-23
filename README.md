@@ -10,11 +10,3 @@
 📧 Contact: tomsclater@live.com 
 
 **🚀**
-
-## Recent Projects: 
-
-Data Analysis - [Marathon Dataset](https://github.com/tomsclater/marathon-dataset)
-
-## In Progress: 
-
-Data Analysis - [Road Safety Data](https://github.com/tomsclater/road-safety-data)
