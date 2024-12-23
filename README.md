@@ -12,8 +12,6 @@
 
 📧 Contact: tomsclater@live.com 
 
-💼 LinkedIn: [Thomas Sclater](https://linkedin.com/in/tomsclater/)
-
 **🚀**
 
 ## Recent Projects: 
