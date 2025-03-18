@@ -28,8 +28,8 @@ At Pulse IT Innovate, we provide transformative digital solutions for businesses
 ## 📢 Let's Connect!
 
 ▶ Support: Join my [Discord](https://discord.gg/J9kVfvAYeH)  
-📧 Contact: [tomsclater@live.com](mailto:tomsclater@live.com)
-📧 Business Inquiries: [hello@pulseitinnovate.uk](mailto:hello@pulseitinnovate.uk)
+📧 Contact: [tomsclater@live.com](mailto:tomsclater@live.com)  
+📧 Business Inquiries: [hello@pulseitinnovate.uk](mailto:hello@pulseitinnovate.uk)  
 
 ---
 
