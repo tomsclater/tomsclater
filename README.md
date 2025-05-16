@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Tom, the founder of **Pulse Lab UK**, where technology
 
 ---
 
-## 🚀 My Business: Pulse Lab UK
+## 🚀 Pulse Lab UK
 
 At Pulse Lab UK, we provide transformative digital solutions for businesses. Check out what we offer:
 
